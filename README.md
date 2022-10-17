@@ -3,8 +3,8 @@ This is a web scrapping projects in which we can scrapped the reviews of the des
 This web appication is built using Python, Flask and BeautifulSoup.
 
 # Workflow
-Importing the desired modules.
-Storing url into a variable.
-Requesting access and reading the url for operation.
-Making url readable using BeautifulSoup.
-Calling the html class and objects as per requirements.
+1. Importing the desired modules.
+2. Storing url into a variable.
+3. Requesting access and reading the url for operation.
+4. Making url readable using BeautifulSoup.
+5. Calling the html class and objects as per requirements.
